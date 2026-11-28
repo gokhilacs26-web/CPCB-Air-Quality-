@@ -1,1 +1,5 @@
-
+# Ignore large raw dataset
+cpcb_city_day_raw.csv
+# Ignore Python cache
+__pycache__/
+*.py[cod]
